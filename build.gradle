@@ -1,0 +1,54 @@
+plugins {
+    id 'fabric-loom' version '1.9.+'
+    id 'maven-publish'
+}
+version = project.mod_version
+group = project.maven_group
+
+repositories {
+    // Cloth Config, ModMenu
+    maven { url 'https://maven.shedaniel.me/' }
+    // Cardinal Components
+    maven { url 'https://maven.ladysnake.org/releases' }
+    // Inline
+    exclusiveContent {
+        forRepository {
+            maven { url = "https://api.modrinth.com/maven" }
+        }
+        filter { includeGroup "maven.modrinth" }
+    }
+    // 本地模组 (SSC, Hex Casting, Paucal, Patchouli)
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+dependencies {
+    minecraft "com.mojang:minecraft:${project.minecraft_version}"
+    mappings "net.fabricmc:yarn:${project.yarn_mappings}:v2"
+    modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
+    modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}"
+
+    // 在线下载的前置模组（不含 Paucal 和 Patchouli，它们已放入 libs）
+    modImplementation "me.shedaniel.cloth:cloth-config-fabric:${project.cloth_config_version}"
+    modImplementation "dev.onyxstudios.cardinal-components-api:cardinal-components-base:${project.cca_version}"
+    modImplementation "dev.onyxstudios.cardinal-components-api:cardinal-components-entity:${project.cca_version}"
+    modImplementation "maven.modrinth:inline:${project.inline_version}"
+    modImplementation "net.fabricmc:fabric-language-kotlin:${project.flk_version}"
+
+    // 加载 libs 文件夹中的所有 jar（包括 SSC、Hex Casting、Paucal、Patchouli 等）
+    modImplementation fileTree(dir: 'libs', include: ['*.jar'])
+}
+
+processResources {
+    inputs.property "version", project.version
+    filesMatching("fabric.mod.json") {
+        expand "version": project.version
+    }
+}
+
+java {
+    withSourcesJar()
+    sourceCompatibility = JavaVersion.VERSION_17
+    targetCompatibility = JavaVersion.VERSION_17
+}

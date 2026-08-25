@@ -1,0 +1,11 @@
+{
+  "type": "apoli:attribute",
+  "modifiers": [
+    {
+      "attribute": "hexcasting:ambit_radius",
+      "operation": "addition",
+      "value": 32.0,
+      "name": "Hex Fox extended ambit"
+    }
+  ]
+}

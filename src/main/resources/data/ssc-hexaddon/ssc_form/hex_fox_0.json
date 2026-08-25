@@ -1,0 +1,10 @@
+{
+  "groupIndex": 7,
+  "phase": "PHASE_SP",
+  "isCustomForm": false,
+  "originID": "ssc-hexaddon:form_hex_fox_0",
+  "FurModelID": "ssc-hexaddon:hex_fox_0",
+  "hasSlowFall": false,
+  "canSneakRush": false,
+  "canRushJump": false
+}

@@ -1,0 +1,51 @@
+# gradle
+
+.gradle/
+build/
+out/
+classes/
+
+# eclipse
+
+*.launch
+
+# idea
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# macos
+
+*.DS_Store
+
+# fabric
+
+run/
+
+# java
+
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+
+# 本地依赖 jar（不要上传大型二进制文件）
+libs/
+*.jar
+
+# 合并代码 dump（旧机器路径生成，不需要上传）
+merged_all_code.txt
+
+# 其他本地残留
+calio-*.jar
+cloth-config-*.jar

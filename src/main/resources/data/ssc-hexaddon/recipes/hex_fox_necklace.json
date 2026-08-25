@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "EQE",
+    " M "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "E": {
+      "item": "hexcasting:edified_planks"
+    },
+    "Q": {
+      "item": "hexcasting:quenched_allay_shard"
+    },
+    "M": {
+      "item": "shape-shifter-curse:moondust_crystal_shard"
+    }
+  },
+  "result": {
+    "item": "ssc-hexaddon:hex_fox_necklace",
+    "count": 1
+  }
+}

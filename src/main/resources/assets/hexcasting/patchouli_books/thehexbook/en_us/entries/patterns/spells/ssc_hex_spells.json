@@ -1,0 +1,26 @@
+{
+  "name": "hexcasting.entry.ssc-hexaddon:hex_spells",
+  "category": "hexcasting:patterns/spells",
+  "icon": "shape-shifter-curse:custom_trinket",
+  "sortnum": 99,
+  "advancement": "hexcasting:root",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "hexcasting:pattern",
+      "op_id": "ssc-hexaddon:get_ssc_form",
+      "anchor": "ssc-hexaddon:get_ssc_form",
+      "input": "entity",
+      "output": "number",
+      "text": "hexcasting.page.ssc-hexaddon:hex_spells.get_ssc_form"
+    },
+    {
+      "type": "hexcasting:pattern",
+      "op_id": "ssc-hexaddon:set_ssc_form",
+      "anchor": "ssc-hexaddon:set_ssc_form",
+      "input": "entity, number, number",
+      "output": "",
+      "text": "hexcasting.page.ssc-hexaddon:hex_spells.set_ssc_form"
+    }
+  ]
+}

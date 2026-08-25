@@ -1,0 +1,9 @@
+{
+  "type": "apoli:attribute",
+  "modifier": {
+    "attribute": "minecraft:generic.max_health",
+    "operation": "addition",
+    "value": -10.0,
+    "name": "Hex Fox 3 reduced health"
+  }
+}

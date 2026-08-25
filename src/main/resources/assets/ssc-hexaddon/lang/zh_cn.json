@@ -1,0 +1,78 @@
+{
+    "hexcasting.mishap.ssc-hexaddon.not_player": "目标不是玩家",
+    "hexcasting.action.ssc-hexaddon:get_ssc_form": "探知幻形",
+	"hexcasting.mishap.ssc-hexaddon.invalid_number": "目标形态必须为1到21的整数",
+	"hexcasting.action.ssc-hexaddon:set_ssc_form": "月之诅咒",
+    "origin.ssc-hexaddon.form_hex_fox.name": "咒法妖狐",
+    "origin.ssc-hexaddon.form_hex_fox.description": "蕴含着咒术力量的狐形态。",
+    "ssc-hexaddon.form_hex_fox.model_name": "咒法妖狐",
+    "itemGroup.ssc-hexaddon.main": "SSC 咒法联动",
+
+    "origin.ssc-hexaddon.form_hex_fox_0.name": "咒法妖狐·初生",
+    "origin.ssc-hexaddon.form_hex_fox_0.description": "刚刚觉醒的咒法妖狐形态。",
+    "ssc-hexaddon.form_hex_fox_0.model_name": "咒法妖狐·初生",
+
+    "origin.ssc-hexaddon.form_hex_fox_1.name": "咒法妖狐·成长",
+    "origin.ssc-hexaddon.form_hex_fox_1.description": "逐渐掌握咒力的妖狐。",
+    "ssc-hexaddon.form_hex_fox_1.model_name": "咒法妖狐·成长",
+
+    "origin.ssc-hexaddon.form_hex_fox_2.name": "咒法妖狐·成熟",
+    "origin.ssc-hexaddon.form_hex_fox_2.description": "咒力充盈的妖狐。",
+    "ssc-hexaddon.form_hex_fox_2.model_name": "咒法妖狐·成熟",
+
+    "origin.ssc-hexaddon.form_hex_fox_3.name": "咒法妖狐·极",
+    "origin.ssc-hexaddon.form_hex_fox_3.description": "完全驾驭咒术的妖狐。",
+    "ssc-hexaddon.form_hex_fox_3.model_name": "咒法妖狐·极",
+
+  "codex.form.ssc-hexaddon.hex_fox_0.name": "咒法妖狐(0阶段)",
+  "codex.form.ssc-hexaddon.hex_fox_0.title": "\n诅咒对你的身体产生了一些影响，紫色的毛簇开始从你身上生长出来。你有点想要喝紫晶水",
+  "codex.form.ssc-hexaddon.hex_fox_0.equip": "",
+  "codex.form.ssc-hexaddon.hex_fox_0.appearance": "你的肢体末端长出了深紫色的软毛。在向上蔓延的过程中，它们的颜色会逐渐过渡到浅紫色\n你的耳朵向头顶移动，它们变成了三角形，并且也被紫色的软毛所覆盖\n你的指甲变得更加尖利，它们在深紫色的皮毛中看起来相当显眼\n你发现身体的各处零星地长出了紫色的软毛，其中最引人注目的是由你背部下方长出的一团紫黑相间的毛簇，触碰它时，你可以感受到其中隐藏的骨质突起",
+  "codex.form.ssc-hexaddon.hex_fox_0.pros": "你的身体更具有活力，奔跑速度变得更快\n你可以额外储存大约相当于5个紫水晶碎片的媒质\n喝1瓶紫晶水现在可以给你恢复相当于1个紫水晶粉的媒质\n随着对咒法感知的增强现在你有了更大一点的施法网格",
+  "codex.form.ssc-hexaddon.hex_fox_0.cons": "你的生命值稍微减少了一些\n你新长出的毛簇稍微拖慢了你在水中的移动速度",
+  "codex.form.ssc-hexaddon.hex_fox_0.instincts": "你开始想更多的去施法\n你开始想喝紫晶水",
+
+  "codex.form.ssc-hexaddon.hex_fox_1.name": "咒法妖狐(1阶段)",
+  "codex.form.ssc-hexaddon.hex_fox_1.title": "\n紫色的毛发在你身上进一步蔓延，一条紫色的蓬松尾巴在你身后摆动",
+  "codex.form.ssc-hexaddon.hex_fox_1.equip": "",
+  "codex.form.ssc-hexaddon.hex_fox_1.appearance": "紫色的毛皮进一步在你身上蔓延。你的四肢与躯干上部已经几乎被厚实的皮毛所覆盖\n你头顶三角形的耳朵也进一步扩大，让你能够听见更细微的声响。从它们的基部生长出的毛皮覆盖了你头顶与面部的一些区域，让你看起来如同戴了某种面具一样\n你的手部与足部比之前大了一圈，它们变成了更加接近爪子的结构\n你尾骨处的紫色毛簇已经成长为了一条蓬松的尾巴，它在你身后缓慢地摆动着",
+  "codex.form.ssc-hexaddon.hex_fox_1.pros": "你的奔跑速度变得更快，新长出的皮毛可以保护你在甜浆果丛中自如穿梭。同时，甜浆果也能给你带来更多的饥饿值\n狐狸信任你。它们不会主动跑开\n你可以额外储存大约相当于5个充能紫水晶的媒质\n喝1瓶紫晶水现在可以给你恢复相当于2个紫水晶粉的媒质\n你可以从脚下的紫水晶母岩中缓慢地吸收媒质\n随着对咒法感知的增强现在你有了更加大一些的施法网格",
+  "codex.form.ssc-hexaddon.hex_fox_1.cons": "你的生命值进一步稍微减少\n你的毛皮稍微拖慢了你在水中的移动速度",
+  "codex.form.ssc-hexaddon.hex_fox_1.instincts": "你开始想要从脚下的紫水晶母岩吸收媒质\n你开始想喝更多的紫晶水",
+
+  "codex.form.ssc-hexaddon.hex_fox_2.name": "咒法妖狐(2阶段)",
+  "codex.form.ssc-hexaddon.hex_fox_2.title": "你现在看起来很像一只直立行走的紫色狐狸",
+  "codex.form.ssc-hexaddon.hex_fox_2.equip": "",
+  "codex.form.ssc-hexaddon.hex_fox_2.appearance": "你的后足已经完全变成了趾行的结构，你的面部也向前突出形成了短小的吻部，让你看起来更加接近某种野兽\n除了深紫色的四爪与头顶的三角形耳朵，以及面部下方与胸脯部分的白色软毛以外，你的身体大部分被厚实的紫色皮毛完全覆盖\n两条蓬松的紫色尾巴在你身后摆动\n你感觉看到的东西有点奇怪…等等，你的右眼也发生了变化？但透过变化后的右眼你感觉能看到一些原本看不到的信息…\n和施法时一样的媒质火花不时从你周身凭空出现，又缓慢消失",
+  "codex.form.ssc-hexaddon.hex_fox_2.pros": "你的奔跑速度变得更快，你也可以在甜浆果丛中自如穿梭\n甜浆果可以给你带来更多的饥饿值\n狐狸信任你。它们不会主动跑开\n你右眼的变化让你能够直接观察到原本需要通过透镜才能观察到的信息\n你可以额外储存大约相当于10个充能紫水晶的媒质\n喝1瓶紫晶水现在可以给你恢复相当于4个紫水晶粉的媒质\n你可以从脚下的紫水晶母岩中更快地吸收媒质\n随着对咒法感知的增强现在你有了更大的施法网格\n你能够缓慢地恢复你存储的媒质",
+  "codex.form.ssc-hexaddon.hex_fox_2.cons": "你的生命值变得更少\n腿甲与鞋不再适合你新的身体结构\n你蓬松的毛皮进一步拖慢了你在水中的移动速度\n消化系统的变化使你从除了浆果之外的食物当中获取的饥饿值变少了",
+  "codex.form.ssc-hexaddon.hex_fox_2.instincts": "在你的内心深处传来了某种微弱的悸动：你身上的变化还没有到达终点\n一剂共鸣催化剂可以让你的变化抵达下一个阶段…但这一过程很可能是永久性的\n你不会真的在考虑这件事情吧？",
+
+  "codex.form.ssc-hexaddon.hex_fox_3.name": "咒法妖狐(永久阶段)",
+  "codex.form.ssc-hexaddon.hex_fox_3.title": "媒质更深地和你的身体融合在了一起，你能感到能更好的掌控自己的媒质乃至意识",
+  "codex.form.ssc-hexaddon.hex_fox_3.equip": "[咒法狐玉]",
+  "codex.form.ssc-hexaddon.hex_fox_3.appearance": "你整体看上去就像一个紫色的同时充满着黑色花纹的狐狸——除了身后摆动的异于寻常的两条大尾巴以外\n你的眼睛现在毫无疑问属于某种野生动物。在阳光下，你的瞳孔会收缩成一条狭缝。你透过它们能够看到更多的信息\n和施法时一样的媒质火花不时从你周身凭空出现，又缓慢消失。它们标志着你对媒质的强大掌控力",
+  "codex.form.ssc-hexaddon.hex_fox_3.pros": "你的奔跑速度变得更快，你也可以在甜浆果丛中自如穿梭\n甜浆果可以给你带来更多的饥饿值\n狐狸信任你。它们不会主动跑开\n由于你的体型，远程攻击也难以命中你\n你眼睛的变化让你能够直接观察到原本需要通过透镜才能观察到的信息\n你可以额外储存大约相当于40个充能紫水晶的媒质\n喝1瓶紫晶水现在可以给你恢复相当于2个充能紫水晶的媒质\n你可以从脚下的紫水晶母岩中吸收大量的媒质\n随着对咒法感知的增强现在你有了巨大的施法网格\n你能够快速地恢复你存储的媒质\n随着你对媒介理解的加深你的咒法能够影响到的范围增大了一倍",
+  "codex.form.ssc-hexaddon.hex_fox_3.cons": "随着你将意识更多的用于咒法你的生命值变得更加少了\n由于不再有能够自如使用工具的双手，你挖掘方块的速度也变得更慢\n腿甲与鞋不再适合你的四足身体结构，你在水中的移动速度也变得更慢\n消化系统的变化使你无法从除了浆果之外的食物当中获取饥饿值了",
+  "codex.form.ssc-hexaddon.hex_fox_3.instincts": "",
+
+  "item.minecraft.potion.effect.hex_fox_0_form_potion": "咒法妖狐咒文药水",
+  "item.minecraft.splash_potion.effect.hex_fox_0_form_potion": "喷溅型咒法妖狐咒文药水",
+  "item.minecraft.lingering_potion.effect.hex_fox_0_form_potion": "滞留型咒法妖狐咒文药水",
+  "item.minecraft.tipped_arrow.effect.hex_fox_0_form_potion": "咒法妖狐咒文之箭",
+  "effect.ssc-hexaddon.hex_fox_0_potion_effect": "其中被修改的魔力和大量的媒质融合在了一起",
+  "effect.ssc-hexaddon.hex_fox_0_effect": "融合了媒质的女巫药水...?",
+
+  "item.minecraft.potion.effect.hex_fox_restorative_potion": "紫晶水",
+  "item.minecraft.splash_potion.effect.hex_fox_restorative_potion": "喷溅型紫晶水",
+  "item.minecraft.lingering_potion.effect.hex_fox_restorative_potion": "滞留型紫晶水",
+  "item.minecraft.tipped_arrow.effect.hex_fox_restorative_potion": "紫晶水之箭",
+  "effect.ssc-hexaddon.hex_fox_restorative": "溶解了紫水晶粉的水，咒法妖狐似乎很喜欢它",
+
+  "item.ssc-hexaddon.hex_fox_necklace": "咒法狐玉",
+  "item.ssc-hexaddon.hex_fox_necklace.tooltip": "[咒法妖狐形态]需要强大的媒质掌控力来驱动。媒质上限减半，但恢复速度加倍",
+
+  "hexcasting.entry.ssc-hexaddon:hex_spells": "幻形法术",
+  "hexcasting.page.ssc-hexaddon:hex_spells.get_ssc_form": "从栈顶接受一个实体，若为玩家则将其当前形态的层级以数字形式压入栈中。",
+  "hexcasting.page.ssc-hexaddon:hex_spells.set_ssc_form": "从栈顶接受三个参数：实体、形态编号、持续时间（秒）。消耗媒质 = 持续时间 × 20000。\n根据我的推测这个法术会利用到月亮的力量，如果和诅咒之月叠加生效的话我也不知道事情会变成什么样。"
+}

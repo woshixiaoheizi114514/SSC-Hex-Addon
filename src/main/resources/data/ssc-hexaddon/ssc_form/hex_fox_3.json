@@ -1,0 +1,28 @@
+{
+  "groupIndex": 7,
+  "phase": "PHASE_SP",
+  "bodyType": "FERAL",
+  "isCustomForm": false,
+  "originID": "ssc-hexaddon:form_hex_fox_3",
+  "FurModelID": "ssc-hexaddon:hex_fox_3",
+  "hasSlowFall": false,
+  "canSneakRush": false,
+  "canRushJump": false,
+  "anim": {
+    "shape-shifter-curse:idle_state": {
+      "controllerType": "shape-shifter-curse:sneak_anim_controller",
+      "anim": { "animID": "shape-shifter-curse:form_feral_common_idle" },
+      "sneakAnim": { "animID": "shape-shifter-curse:form_feral_common_sneak_idle" }
+    },
+    "shape-shifter-curse:walk_state": {
+      "controllerType": "shape-shifter-curse:sneak_anim_controller",
+      "anim": { "animID": "shape-shifter-curse:form_feral_common_walk" },
+      "sneakAnim": { "animID": "shape-shifter-curse:form_feral_common_sneak_walk" }
+    },
+    "shape-shifter-curse:sprint_state": {
+      "controllerType": "shape-shifter-curse:sneak_anim_controller",
+      "anim": { "animID": "shape-shifter-curse:form_feral_common_sprint" },
+      "sneakAnim": { "animID": "shape-shifter-curse:form_feral_common_sneak_sprint" }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "apoli:attribute",
+  "modifiers": [
+    {
+      "attribute": "hexcasting:grid_zoom",
+      "operation": "multiply_base",
+      "value": 0.66,
+      "name": "Hex Fox extended grid 3"
+    }
+  ]
+}

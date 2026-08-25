@@ -1,0 +1,11 @@
+{
+  "type": "apoli:attribute",
+  "modifiers": [
+    {
+      "attribute": "hexcasting:scry_sight",
+      "operation": "addition",
+      "value": 1.0,
+      "name": "Hex Fox Scry Sight"
+    }
+  ]
+}

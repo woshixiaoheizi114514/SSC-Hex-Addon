@@ -1,0 +1,34 @@
+{
+  "type": "apoli:modify_food",
+  "food_modifiers": [
+    {
+      "operation": "multiply_base_multiplicative",
+      "value": -0.5
+    }
+  ],
+  "saturation_modifiers": [
+    {
+      "operation": "multiply_base_multiplicative",
+      "value": -0.5
+    }
+  ],
+  "item_condition": {
+    "type": "apoli:and",
+    "conditions": [
+      {
+        "type": "apoli:ingredient",
+        "ingredient": {
+          "item": "minecraft:sweet_berries"
+        },
+        "inverted": true
+      },
+      {
+        "type": "apoli:ingredient",
+        "ingredient": {
+          "item": "minecraft:glow_berries"
+        },
+        "inverted": true
+      }
+    ]
+  }
+}

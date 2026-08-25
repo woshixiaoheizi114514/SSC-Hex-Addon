@@ -1,0 +1,36 @@
+{
+  "powers": [
+    "shape-shifter-curse:no_render_arm",
+    "shape-shifter-curse:form_sprint_speed_up",
+    "shape-shifter-curse:form_familiar_fox_3_water_speed_down",
+    "shape-shifter-curse:form_familiar_fox_3_digging_speed_down",
+    "shape-shifter-curse:form_familiar_fox_3_jump_high",
+    "shape-shifter-curse:form_disable_leg_armor",
+    "shape-shifter-curse:form_disable_feet_armor",
+    "shape-shifter-curse:form_familiar_fox_sound_hurt",
+    "shape-shifter-curse:form_familiar_fox_sound",
+    "shape-shifter-curse:prevent_berry_effect",
+    "shape-shifter-curse:form_familiar_fox_sound_key",
+    "shape-shifter-curse:form_camera_bobbing_feral",
+    "shape-shifter-curse:feral_form_step_sound_speed_up",
+    "shape-shifter-curse:form_snow_fox_3_sweet_berry_up",
+    "shape-shifter-curse:form_snow_fox_3_fox_friendly",
+    "shape-shifter-curse:form_tan_prevent_dirty_water_thirst",
+    "shape-shifter-curse:form_familiar_fox_3_tan_temperature_modify",
+    "ssc-hexaddon:hex_fox_3_mana",
+    "ssc-hexaddon:hex_fox_grid_zoom_3",
+    "ssc-hexaddon:hex_fox_scry_sight",
+    "ssc-hexaddon:hex_fox_ambit_radius",
+    "ssc-hexaddon:hex_fox_3_health",
+    "ssc-hexaddon:hex_fox_3_food",
+    "ssc-hexaddon:hex_fox_particle",
+    "ssc-hexaddon:hex_fox_amethyst_boost"
+  ],
+  "icon": {
+    "item": "minecraft:player_head"
+  },
+  "order": 0,
+  "unchoosable": true,
+  "impact": 0,
+  "loading_priority": 0
+}

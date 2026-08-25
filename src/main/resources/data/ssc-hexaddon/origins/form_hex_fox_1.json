@@ -1,0 +1,21 @@
+{
+  "powers": [
+    "ssc-hexaddon:hex_fox_1_mana",
+    "shape-shifter-curse:form_familiar_fox_0_sprint_speed_up",
+    "shape-shifter-curse:form_familiar_fox_0_water_speed_down",
+    "shape-shifter-curse:form_instinct_use_catalyst",
+    "shape-shifter-curse:form_instinct_use_golden_apple",
+    "shape-shifter-curse:form_familiar_fox_sound_key",
+    "shape-shifter-curse:form_snow_fox_3_sweet_berry_up",
+    "shape-shifter-curse:form_familiar_fox_2_health",
+    "ssc-hexaddon:hex_fox_grid_zoom_1",
+    "ssc-hexaddon:hex_fox_amethyst_boost"
+  ],
+  "icon": {
+    "item": "minecraft:player_head"
+  },
+  "order": 0,
+  "unchoosable": true,
+  "impact": 0,
+  "loading_priority": 0
+}

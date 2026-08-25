@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "ssc-hexaddon",
+  "version": "beta-1.0.1",
+  "name": "SSC Hex Addon",
+  "description": "Adds a spell to read the player's Shape Shifter Curse form.",
+  "authors": ["BuShao"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.onixary.ssc_hex_addon.SSCHexAddon"
+    ],
+    "client": [
+      "net.onixary.ssc_hex_addon.client.SSCHexAddonClient"
+    ]
+  },
+  "depends": {
+    "java": ">=17",
+    "minecraft": "1.20.1",
+    "fabricloader": ">=0.14",
+    "shape-shifter-curse": "*",
+    "hexcasting": "*"
+  }
+}
