@@ -1,9 +1,17 @@
-# Example Mod
+# 幻形者诅咒:咒法学联动
 
-## Setup
+## 模组介绍
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+尝试为幻形者诅咒添加和咒法学的联动玩法
 
-## License
+目前内容包含：
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+一套基于咒法学为核心玩法的形态和两个额外的咒法学法术
+
+## 最后
+
+注意:目前本模组的代码部分AI率为100%()
+
+这个其实就是咱尝试向的一个东西，而且自己也完全没学过java，没想到真的跑起来了()
+
+不敢保证以后的可维护性)
